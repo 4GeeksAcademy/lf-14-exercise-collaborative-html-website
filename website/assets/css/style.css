@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
+
+
+#portfolio_cards > h4 {
+    color: #2897ff;
+}
+
