@@ -1,7 +1,10 @@
 body{
-    background: #BDBDBD;
+  background: #BDBDBD;
 }
 
+#portfolio_cards > h4 {
+    color: #2897ff;
+}
 #jumbotron {
     background-image: url("https://fastly.picsum.photos/id/391/2980/2151.jpg?hmac=Vm7g1uyLxiCTfcFr1aXyYGRwqi7LMjpXzkatkqekPGQ");
     background-repeat: no-repeat;
@@ -9,3 +12,4 @@ body{
     background-position: center bottom;
     min-height: 500px;
   }
+
